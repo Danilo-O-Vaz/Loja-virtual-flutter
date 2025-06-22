@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
           elevation: 6,
           margin: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(12),
+          borderRadius: BorderRadius.circular(12),
           ),
         ),
         textTheme: const TextTheme(
